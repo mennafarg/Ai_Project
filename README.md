@@ -1,5 +1,5 @@
-                                                                                                                                            # Ai_Project
-                                                                                                                                            # 2048 AI Game 🎮🤖
+                                                                                # Ai_Project
+                                                                                # 2048 AI Game 🎮🤖
 
                                                                         
 # 📜 Description  
