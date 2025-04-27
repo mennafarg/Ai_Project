@@ -58,7 +58,15 @@ ________________________________________________________________________________
 
 📸 Project Preview
   1-You win
-  ![you win](https://github.com/user-attachments/assets/7d257993-053b-478b-a5f2-f1bac35f59bb)
+
+
+
+  
+                         ![you win](https://github.com/user-attachments/assets/7d257993-053b-478b-a5f2-f1bac35f59bb)
 
   2-Game Over
-  ![Game Over](https://github.com/user-attachments/assets/8619f375-626a-4fb1-9c18-1bb94afe6f72)
+                        
+                        
+                        
+                        
+                        ![Game Over](https://github.com/user-attachments/assets/8619f375-626a-4fb1-9c18-1bb94afe6f72)
