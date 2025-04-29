@@ -71,7 +71,10 @@ Simply run the project, and the AI will start moving the tiles smartly to merge 
 - **Path Cost**: Maximize the score by making strategic moves.<br>  
 
 ---
+#Notes
+-click [2048 AI Version (PDF)](https://www.canva.com/design/DAGmC6fMYg8/TG3HSk7tFXddmS3-oY64tA/view?utm_content=DAGmC6fMYg8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb0056a274a) to see pdf file.<br>
 
+---
 # 📸 Project Preview  
 
   ![you win](https://github.com/user-attachments/assets/7d257993-053b-478b-a5f2-f1bac35f59bb)                     
